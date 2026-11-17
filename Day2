@@ -33,3 +33,6 @@ case2:
 case n: 
       \\statement n;
        \\break;
+for( int i=0; i<n; i++){
+  \\block of code}
+for(initialize,condition,incremenent/decrement
