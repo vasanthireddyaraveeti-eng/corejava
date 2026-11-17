@@ -20,6 +20,16 @@ else{
   NESTED IF
     if condition1{
         if condition2{
-            //block of code statement2
+            //block of code statement 2
         }
-    \\block of code statement1
+    \\block of code statement 1
+}SWITCH (condition ){
+case1:
+      \\statement 1;
+       \\break;
+case2: 
+     \\statement 2;
+      \\break;
+case n: 
+      \\statement n;
+       \\break;
