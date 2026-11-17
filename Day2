@@ -1,0 +1,25 @@
+Control Statement
+  it is divided into 3 types
+     1.conditional :
+       ->if, if else, else if ladder, nested if,switch.
+     2.looping : 
+       ->for, while, dowhile.
+     3.jumping :
+       ->continue, break, return.
+        Else if condition we use this syntax: 
+if condition1{
+         //block of code
+       }
+else if condition2{
+  //block of code
+}
+else if condition3{
+  //block of code
+}
+else{
+  NESTED IF
+    if condition1{
+        if condition2{
+            //block of code statement2
+        }
+    \\block of code statement1
